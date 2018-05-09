@@ -772,6 +772,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/poster7-800x565.jpg",
                 "alt": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/beestmetapje.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beestmetapje-800x547.jpg",
+                "alt": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -1296,18 +1303,11 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/6beac5f2-2d31-4035-9e40-b4195a8c161d-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6beac5f2-2d31-4035-9e40-b4195a8c161d-2000x1500-800x600.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-4216-2-960x1280.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4216-2-960x1280-800x1069.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-1-1191x842.jpg",
@@ -1321,7 +1321,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img169-2000x1414-800x565.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
