@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page2.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 55,
+    "uniqCompNum": 57,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -649,6 +649,14 @@
             "overlayOpacity": 0.8
           },
           "_anchor": "footer1-g"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j"
         }
       ]
     },
@@ -756,7 +764,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
@@ -771,7 +779,7 @@
                 "image": "@PROJECT_PATH@/assets/images/poster7.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/poster7-800x565.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "illustration for animation project",
                 "active": false
               },
               {
@@ -789,6 +797,14 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1c"
+        },
+        {
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k"
         }
       ]
     },
