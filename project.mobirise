@@ -772,21 +772,21 @@
                 "image": "@PROJECT_PATH@/assets/images/-img-4683-1400x990.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4683-1400x990-800x552.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Illustration for the veterenary, watercolor, pencil, paper",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/poster7.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/poster7-800x565.jpg",
                 "alt": "",
-                "caption": "illustration for animation project",
+                "caption": "illustration for animation project, pencil, ink, paper, digital&nbsp;",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/beestmetapje.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/beestmetapje-800x547.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Illustration of the study project, pencil, ink, marker, paper",
                 "active": true
               }
             ]
