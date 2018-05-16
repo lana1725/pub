@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 57,
     "versionPublish": "4.5.2",
@@ -1454,7 +1454,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
@@ -1462,35 +1462,35 @@
                 "image": "@PROJECT_PATH@/assets/images/-2000x1414.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1414-800x565.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Study project of comic strip art, pencil, ink, guash, paper",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4-2000x2828.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x2828-800x1131.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-1999x2829.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1999x2829-800x1132.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Study project of comic strip art, pencil, ink, guash, paper",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/boek2-1999x1499.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/boek2-1999x1499-800x599.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Study project, ink, markers, watercolor, paper",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/geerkevoormobirise.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/geerkevoormobirise-800x1131.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Portrait of Geerkr Stieker, pencil, watercolor, paper",
                 "active": true
               }
             ]
