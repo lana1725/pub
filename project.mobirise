@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 59,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.7.2",
     "theme": {
       "additionalSetColors": []
     },
@@ -436,7 +436,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-3-1627x1151.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3-1627x1151.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -769,7 +769,7 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-img-4683-1400x990.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4683-1400x990.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4683-1400x990-800x552.jpg",
                 "alt": "",
                 "caption": "Illustration for the veterenary, watercolor, pencil, paper",
@@ -915,7 +915,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-img-4683-1400x990.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4683-1400x990.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1043,30 +1043,23 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": false,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/0a92d0c8-c181-4aa3-b48e-73dfbf04f2e4-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0a92d0c8-c181-4aa3-b48e-73dfbf04f2e4-2000x1500-800x564.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/angst1-2000x2761.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/angst1-2000x2761-800x1100.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Project for the exhibition in Dr Guislain museum, wood cut",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20150630-002135-resized-6-1536x1152.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20150630-002135-resized-6-1536x1152-800x600.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Project for the private collection, watercolor, paper, ink, pencil",
+                "active": false
               }
             ]
           },
@@ -1314,7 +1307,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
@@ -1322,21 +1315,21 @@
                 "image": "@PROJECT_PATH@/assets/images/img-4216-2-960x1280.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4216-2-960x1280-800x1069.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Project for the private collection, watercolor, paper, pencil",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-1-1191x842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1191x842.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-1191x842-800x492.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Photoshop collage&nbsp;",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img169-2000x1414.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img169-2000x1414-800x565.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Study project, collage, magazines, paper, tracing paper",
                 "active": false
               }
             ]
@@ -1453,13 +1446,13 @@
             "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "noGutter": true,
+            "noGutter": false,
             "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-2000x1414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2000x1414.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1414-800x565.jpg",
                 "alt": "",
                 "caption": "Study project of comic strip art, pencil, ink, guash, paper",
@@ -1470,10 +1463,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x2828-800x1131.jpg",
                 "alt": "",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-1999x2829.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1999x2829.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1999x2829-800x1132.jpg",
                 "alt": "",
                 "caption": "Study project of comic strip art, pencil, ink, guash, paper",
@@ -1492,6 +1485,22 @@
                 "alt": "",
                 "caption": "Portrait of Geerkr Stieker, pencil, watercolor, paper",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/opdracht.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opdracht-800x566.jpg",
+                "alt": "",
+                "caption": "Study project (portrait of Hannah with masks), watercolor, paper, ink, guash, pencil",
+                "active": false,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-season.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-season-800x566.jpg",
+                "alt": "",
+                "caption": "Study project, collage technique, oil, paper, watercolor, digital",
+                "active": true,
+                "title": ""
               }
             ]
           },
