@@ -937,7 +937,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Illustration</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">Arts</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Video</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Articles</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Illustration</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">Arts</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Video</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Articles</a>",
           "_tags": [
             "Theme"
           ],
