@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 59,
     "versionPublish": "4.7.2",
@@ -1507,6 +1507,14 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4-season-800x566.jpg",
                 "alt": "",
                 "caption": "Study project, collage technique, oil, paper, watercolor, digital",
+                "active": false,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/correction.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/correction-800x388.jpg",
+                "alt": "",
+                "caption": "Study project (triptych), photo, ink, paper, pencil",
                 "active": true,
                 "title": ""
               }
