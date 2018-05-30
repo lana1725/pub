@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 59,
     "versionPublish": "4.7.2",
@@ -787,7 +787,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/beestmetapje-800x547.jpg",
                 "alt": "",
                 "caption": "Illustration of the study project, pencil, ink, marker, paper",
-                "active": true
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-29-800x566.jpg",
+                "alt": "",
+                "caption": "Project for the private collection, watercolor, paper, ink, pencil",
+                "active": true,
+                "title": ""
               }
             ]
           },
