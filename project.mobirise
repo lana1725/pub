@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 64,
     "versionPublish": "4.7.2",
@@ -937,7 +937,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Illustration</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">Arts</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Video</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://lana1725.github.io/pub/page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Articles</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Illustration</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">Arts</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Video</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Articles</a>",
           "_tags": [
             "Theme"
           ],
