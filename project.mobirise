@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page13.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.7.2",
@@ -420,6 +420,9 @@
             },
             ".nav-link:hover, .dropdown-item:hover": {
               "color": "@itemsHoverColor !important"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_cid": "qDvcj1NI6C",
@@ -519,6 +522,14 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "text": "<p><br></p><p><br></p><p>Svetlana Mitrofanova is a student of the illustration faculty in Sint Luca's school of arts, campus Gent. Participated in a number of exhibitions in Gent. Svetlana is focusing on the creepy arts, observing dark sides of the human nature. Same time she is busy with making cartoonish illustrations for children, bright and full of love for life.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m"
         },
         {
           "_name": "header2",
@@ -649,14 +660,6 @@
             "overlayOpacity": 0.8
           },
           "_anchor": "footer1-g"
-        },
-        {
-          "text": "Svetlana Mitrofanova is a student of the illustration faculty in Sint Luca's school of arts, campus Gent. Participated in a number of exhibitions in Gent. Svetlana is focusing on the creepy arts, observing dark sides of the human nature. Same time she is busy with making cartoonish illustrations for children, bright and full of love for life.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1m"
         }
       ]
     },

@@ -396,6 +396,9 @@ nav.opened .hamburger span {
 .nav-link:hover, .dropdown-item:hover {
   color: @itemsHoverColor !important;
 }
+P {
+  color: #000000;
+}
 }
 
 #header4-h {
@@ -409,6 +412,9 @@ nav.opened .hamburger span {
 P {
   color: #000000;
 }
+}
+
+#content1-1m {
 }
 
 #header2-f {
@@ -495,9 +501,6 @@ padding-bottom: (@paddingBottom * 15px);
     }
   }
 }
-}
-
-#content1-1m {
 }
 @isPublish: true;
 
